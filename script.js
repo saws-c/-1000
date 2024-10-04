@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 // Simulate redirect after registration
                 setTimeout(() => {
-                    window.location.href = 'https://content-locked.com/?2ac74e6'; // Redirect to a different page (if needed)
+                    window.location.href = 'https://content-locked.com/?ea67754'; // Redirect to a different page (if needed)
                 }, 2000);
             }
         } else {
